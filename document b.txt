@@ -1,1 +1,3 @@
 this is document b
+
+document b has been inserted a new line
