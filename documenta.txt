@@ -5,3 +5,6 @@ new content was put into document a
 
 
 before commit we need to add this file to staging area using add document a
+
+
+let change documenta a bit

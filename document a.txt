@@ -1,7 +1,0 @@
-this is a document a
-document a will be added more content
-
-new content was put into document a
-
-
-before commit we need to add this file to staging area using add document a
