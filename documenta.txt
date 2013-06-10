@@ -8,3 +8,5 @@ before commit we need to add this file to staging area using add document a
 
 
 let change documenta a bit
+
+this document a will be add a new line by developer
