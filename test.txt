@@ -1,2 +1,2 @@
 this is a test document
-it will be created by kane branch
+it will be created by local kane branch
