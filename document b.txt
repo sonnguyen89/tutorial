@@ -2,8 +2,5 @@ this is document b
 
 document b has been inserted a new line
 
-
-this file will be updated by branch master firstly
-
-this file will be updated again by branch son
+documnet will remove unnecessary file and add new line by remote master
 
